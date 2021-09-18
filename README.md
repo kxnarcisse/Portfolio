@@ -1,2 +1,1 @@
-# Springboard
-Data Science Boot Camp - Student
+I've combined my leadership presence on engineering teams with the skills obtained from data science. My natural ability to lead and my love for working with data support my experience leading teams of engineers and machine learning modeling and python.
