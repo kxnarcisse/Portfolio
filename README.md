@@ -11,9 +11,9 @@ The data for this model consists of a training dataset with the features listed 
 **•	Job Code: Primary Key - unique identifier for each job posting**    
 **•	Title: - The job posting title**    
 **•	Job Description: Job level description**    
-**•	Region: Job posting regional area** 
+**•	Region: Job posting regional area**   
 **•	Location: Job posting location**    
-**•	ContractType: Contract Posting (e.g Part-time, Full-Time)** 
+**•	ContractType: Contract Posting (e.g Part-time, Full-Time)**   
 **•	ContractTime: Job Posting Time (e.g Part-time, Permanent, Contract)**   
 **•	Company: Hiring Company**   
 **•	Category: Job level Category (e.g IT-Jobs, Engineering)**   
