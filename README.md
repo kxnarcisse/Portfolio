@@ -27,15 +27,22 @@ train_rev1.csv: Each row represents an observation for each individual job posti
 **•	Salary: Salary paid, in thousands UK dollars, target variable.**    
 **•Source_Name: Source of Job posting** 
 
-## Data Preprocessing:
+## Data Wrangling:
 
-### Cleaning and Explanatory Data Analysis
+### Cleaning
 ![image](https://user-images.githubusercontent.com/77252878/133901449-c0e15da9-b498-4e4e-85b4-ced3ba1dd2e1.png)
 
 ### Checked for null values
 ![image](https://user-images.githubusercontent.com/77252878/133902382-880a7642-de6a-4019-b6a8-7793c3052252.png)
 ### Checked for duplicate values
 ![image](https://user-images.githubusercontent.com/77252878/133903045-4705b330-a40b-4fc1-8aa0-245cb6f2ab29.png)
+
+### Number Of Missing Values Visualized
+![image](https://user-images.githubusercontent.com/77252878/133942228-6b6742ff-4a1b-4676-b81b-c3e77e5992ed.png)
+
+
+
+## Explanatory Data Analysis:
 
 Check for outliers Deleted the rows with salary < 0. Calculated the quantile value for 75% and 25%, the value above 75% - 200,000 tend to be outliers. Verified and validated the data as those rows are legitimate and those salary belongs to IT executive type jobs or from highly paid industry like oil and finance.
 
