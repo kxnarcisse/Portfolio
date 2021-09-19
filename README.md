@@ -68,9 +68,8 @@ Permanent contract agreement seems to have higher salary
 
 ![image](https://user-images.githubusercontent.com/77252878/133945204-f6423729-c1e0-48ea-bd7b-f6849d5044c8.png)
 
-#### Split Test
-![image](https://user-images.githubusercontent.com/77252878/133945265-71518cfe-e8fd-46cb-a46e-abce6d918435.png)
-
+#### Split the X and y into 75/25 training and testing data subsets
+![image](https://user-images.githubusercontent.com/77252878/133945368-851231d5-bfbe-4fb7-a9ee-11e66e218085.png)
 
 ### Feature Engineering:
 
