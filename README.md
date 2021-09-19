@@ -8,7 +8,11 @@ The purpose of this project is to make accurate salary predictions that are base
 Data transformation and machine learning will be used to create a model that will predict a salary when given job description category, contract type, and contract time:
 The data for this model consists of a training dataset with the features listed below and their corresponding salaries. Twenty five percent of this training dataset was split into a test dataset with corresponding salaries so accuracy and error of the model can be determined. 
 
-### The features in this data set are described as below:
+### Dataset:
+
+train_rev1.csv: Each row represents an observation for each individual job posting. The "Category" column is unique to each job posting and the other columns are the different features of the job postings. The file has twelve columns.
+
+### Features Description:
 
 **•	Job Code: Primary Key - unique identifier for each job posting**    
 **•	Title: - The job posting title**    
