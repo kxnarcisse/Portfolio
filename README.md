@@ -9,8 +9,10 @@ Data transformation and machine learning will be used to create a model that wil
 The data for this model consists of a training dataset with the features listed below and their corresponding salaries. Twenty five percent of this training dataset was split into a test dataset with corresponding salaries so accuracy and error of the model can be determined. 
 
 ### Dataset:
+[Kaggle Dataset](https://www.kaggle.com/airiddha/trainrev1)
 
 train_rev1.csv: Each row represents an observation for each individual job posting. The "Category" column is unique to each job posting and the other columns are the different features of the job postings. The file has twelve columns.
+
 
 ### Features Description:
 
