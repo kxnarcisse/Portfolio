@@ -74,7 +74,7 @@ Permanent contract agreement seems to have higher salary
 #### Split the X and y into 75/25 training and testing data subsets
 ![image](https://user-images.githubusercontent.com/77252878/133945368-851231d5-bfbe-4fb7-a9ee-11e66e218085.png)
 
-### Feature Engineering:
+### Algorithms & Machine Learning:
 
 **Performed one-hot encoding for nominal categorical variable like category, contract-time and company.**
 
