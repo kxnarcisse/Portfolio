@@ -1,5 +1,5 @@
 ## Salary Prediction Portfolio
-![image](https://user-images.githubusercontent.com/77252878/133911555-aeb08450-cf2d-48f4-ba9b-70c6a620114c.png)
+![image](https://user-images.githubusercontent.com/77252878/134051427-7faa200f-efed-4775-a33e-36cdc8b3bbf8.png)
 
 
 ### Problem Definition:
