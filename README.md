@@ -9,7 +9,7 @@ Data transformation and machine learning will be used to create a model that wil
 The data for this model consists of a training dataset with the features listed below and their corresponding salaries. Twenty five percent of this training dataset was split into a test dataset with corresponding salaries so accuracy and error of the model can be determined. 
 
 ### Dataset:
-[Kaggle Dataset](https://www.kaggle.com/airiddha/trainrev1)
+**[Kaggle Dataset](https://www.kaggle.com/airiddha/trainrev1)**
 
 train_rev1.csv: Each row represents an observation for each individual job posting. The "Category" column is unique to each job posting and the other columns are the different features of the job postings. The file has twelve columns.
 
@@ -45,7 +45,7 @@ train_rev1.csv: Each row represents an observation for each individual job posti
 
 
 ## Explanatory Data Analysis:
-[EDA Notebook](https://github.com/kxnarcisse/Springboard/blob/master/Git/Notebooks/Capstone-2/Capstone%20Project%202%20-%20EDA.ipynb)
+**[EDA Notebook](https://github.com/kxnarcisse/Springboard/blob/master/Git/Notebooks/Capstone-2/Capstone%20Project%202%20-%20EDA.ipynb)**
 
 Check for outliers Deleted the rows with salary < 0. Calculated the quantile value for 75% and 25%, the value above 75% - 200,000 tend to be outliers. Verified and validated the data as those rows are legitimate and those salary belongs to IT executive type jobs or from highly paid industry like oil and finance.
 
@@ -75,6 +75,7 @@ Permanent contract agreement seems to have higher salary
 ![image](https://user-images.githubusercontent.com/77252878/133945368-851231d5-bfbe-4fb7-a9ee-11e66e218085.png)
 
 ### Algorithms & Machine Learning:
+**[ML Notebook](https://github.com/kxnarcisse/Springboard/blob/master/Git/Notebooks/Capstone-2/Feature%20Engineering%20Machine%20Learning-%20Salary%20Prediction%20Capstone%202.ipynb)**
 
 **Performed one-hot encoding for nominal categorical variable like category, contract-time and company.**
 
@@ -122,7 +123,7 @@ Based on this information, candidates can also decide the type of industry, loca
 #### Note:
 The type of job opportunities and description titles are important factors to consider when predicting salary, but they are not included in the model. While it is important to consider the position and industry, we should also keep in mind other variables that are not included in the model.
 
-**Please check the notebook for details: https://github.com/kxnarcisse/Springboard/blob/master/Git/Notebooks/Capstone-2/Feature%20Engineering%20Machine%20Learning-%20Salary%20Prediction%20Capstone%202.ipynb
+
 
 
 
