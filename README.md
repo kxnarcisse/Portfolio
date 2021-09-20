@@ -67,7 +67,9 @@ A clear difference is observed in the salary of different jobholders’ categori
 #### Fig Z.   Salary by Job Contract
 Permanent contract agreement seems to have higher salary
 
-#### Created -  One-hot encoding for nominal variables
+
+
+####  Created -  One-hot encoding for nominal variables
 
 ![image](https://user-images.githubusercontent.com/77252878/133945204-f6423729-c1e0-48ea-bd7b-f6849d5044c8.png)
 
