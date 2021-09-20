@@ -45,6 +45,7 @@ train_rev1.csv: Each row represents an observation for each individual job posti
 
 
 ## Explanatory Data Analysis:
+[EDA Notebook](https://github.com/kxnarcisse/Springboard/blob/master/Git/Notebooks/Capstone-2/Capstone%20Project%202%20-%20EDA.ipynb)
 
 Check for outliers Deleted the rows with salary < 0. Calculated the quantile value for 75% and 25%, the value above 75% - 200,000 tend to be outliers. Verified and validated the data as those rows are legitimate and those salary belongs to IT executive type jobs or from highly paid industry like oil and finance.
 
