@@ -1,4 +1,4 @@
-## Salary Prediction Portfolio
+## Predicting Future Earning Power Portfolio
 ![image](https://user-images.githubusercontent.com/77252878/134051427-7faa200f-efed-4775-a33e-36cdc8b3bbf8.png)
 
 
