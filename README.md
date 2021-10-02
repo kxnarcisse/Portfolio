@@ -1,5 +1,7 @@
 ## Predicting Future Earning Power Portfolio
-![image](https://user-images.githubusercontent.com/77252878/134051427-7faa200f-efed-4775-a33e-36cdc8b3bbf8.png)
+![Salary-7](https://user-images.githubusercontent.com/77252878/135728353-920a1f71-1cde-4e96-b229-3a9520e8de75.png)
+
+
 
 
 ### Problem Definition:
