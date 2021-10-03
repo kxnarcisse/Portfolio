@@ -1,4 +1,4 @@
-## Predicting Future Earning Power Portfolio
+## Predicting Future Earning Power 
 ![Salary-7](https://user-images.githubusercontent.com/77252878/135728353-920a1f71-1cde-4e96-b229-3a9520e8de75.png)
 
 
