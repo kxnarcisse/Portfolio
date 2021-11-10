@@ -97,14 +97,17 @@ Accuracy: (TN+TP)/N (4537 + 719)/6431 = 82%
 Misclassification Rate: (FP +FN)/N (937 + 238)/6431 = 0.18%
 
 
+
 ### Feature Engineering - Machine Learning - Regression
 
 **[Regression Machine Learning Notebook](https://github.com/kxnarcisse/Portfolio/blob/master/Git/Notebooks/housing_market/modeling_housing_market_regression_model.ipynb)**
+
 
 ### Predictive models
 
 Linear Regression
 Random Forest   
+
 
 ### Linear Regression
 ![image](https://user-images.githubusercontent.com/77252878/141168726-51687b69-2d24-4f9c-994d-48ce347ded67.png)
